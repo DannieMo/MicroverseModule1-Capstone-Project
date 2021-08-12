@@ -161,7 +161,7 @@ p {
    linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(191, 188, 188, 0.6)
-   ),url(/assets/cicweb4.jpg);
+   ),url(/assets/cicweb3.jpg);
   background-repeat: no-repeat;
   background-position: center;
 
@@ -176,6 +176,7 @@ p {
   margin-inline: auto;
   min-height: 326.85px;
   height: auto;
+  margin-bottom: 4%;
 }
 
 .open-intro-heading {
@@ -204,7 +205,9 @@ p {
   border: 2px solid rgba(255, 255, 255, 0.25);
   border-radius: 10px;
   margin-top: 5%;
-  font-weight: bold;
+  font-weight: bolder;
+  color: black;
+  font-size: larger;
 }
 
 h3 {
@@ -507,7 +510,6 @@ footer {
     justify-content: space-between;
     align-items: center;
     width: 82%;
-    height: ;
     margin: 0 auto;
     position: unset;
   }
@@ -522,7 +524,6 @@ footer {
 
   .desktop-logo img {
     width: 45%;
-
   }
 
   .desktop-logo {
