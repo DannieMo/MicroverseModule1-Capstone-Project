@@ -14,6 +14,11 @@ body {
   box-sizing: border-box;
 }
 
+header {
+  background-color: #fff;
+  height: 6rem;
+}
+
 .menu-content,
 .first-bar-section,
 .close-menu,
@@ -501,7 +506,7 @@ footer {
 
   header {
     background-color: #fff;
-    height: 6rem;
+    /* height: 6rem; */
   }
 
   .nav-container {
