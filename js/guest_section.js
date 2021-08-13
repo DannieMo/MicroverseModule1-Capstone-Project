@@ -4,48 +4,60 @@ const data = [
     pic: '/assets/image-1.png',
     altText: 'This is featured speaker image',
     nameOfSpeaker: 'Chamath',
-    designation: 'Canadian venture capitalist and entrepreneur for 20 yeas in Tech',
-    history: 'He is a venture capitalist, engineer, SPAC sponsor and the founder and CEO of Social Capital..',
+    designation:
+      'Canadian venture capitalist and entrepreneur for 20 yeas in Tech',
+    history:
+      'He is a venture capitalist, engineer, SPAC sponsor and the founder and CEO of Social Capital..',
   },
   {
     id: 2,
     pic: '/assets/image-2.png',
     altText: 'This is featured speaker image',
     nameOfSpeaker: 'Travis',
-    designation: 'Canadian venture capitalist and entrepreneur for 20 yeas in Tech',
-    history: 'He is a venture capitalist, engineer, SPAC sponsor and the founder and CEO of Social Capital..',
+    designation:
+      'Canadian venture capitalist and entrepreneur for 20 yeas in Tech',
+    history:
+      'He is a venture capitalist, engineer, SPAC sponsor and the founder and CEO of Social Capital..',
   },
   {
     id: 3,
     pic: '/assets/image-3.png',
     altText: 'This is featured speaker image',
     nameOfSpeaker: 'Peter Thiel',
-    designation: 'Canadian venture capitalist and entrepreneur for 20 yeas in Tech',
-    history: 'He is a venture capitalist, engineer, SPAC sponsor and the founder and CEO of Social Capital..',
+    designation:
+      'Canadian venture capitalist and entrepreneur for 20 yeas in Tech',
+    history:
+      'He is a venture capitalist, engineer, SPAC sponsor and the founder and CEO of Social Capital..',
   },
   {
     id: 4,
     pic: '/assets/image-4.png',
     altText: 'Canadian venture capitalist and entrepreneur',
     nameOfSpeaker: 'Chamath',
-    designation: 'Canadian venture capitalist and entrepreneur for 20 yeas in Tech',
-    history: 'He is a venture capitalist, engineer, SPAC sponsor and the founder and CEO of Social Capital..',
+    designation:
+      'Canadian venture capitalist and entrepreneur for 20 yeas in Tech',
+    history:
+      'He is a venture capitalist, engineer, SPAC sponsor and the founder and CEO of Social Capital..',
   },
   {
     id: 5,
     pic: '/assets/image-5.png',
     altText: 'This is featured speaker image',
     nameOfSpeaker: 'David Sacks',
-    designation: 'Canadian venture capitalist and entrepreneur for 20 yeas in Tech',
-    history: 'He is a venture capitalist, engineer, SPAC sponsor and the founder and CEO of Social Capital..',
+    designation:
+      'Canadian venture capitalist and entrepreneur for 20 yeas in Tech',
+    history:
+      'He is a venture capitalist, engineer, SPAC sponsor and the founder and CEO of Social Capital..',
   },
   {
     id: 6,
     pic: '/assets/image-6.png',
     altText: 'This is featured speaker image',
     nameOfSpeaker: 'Toni',
-    designation: 'Canadian venture capitalist and entrepreneur for 20 yeas in Tech',
-    history: 'He is a venture capitalist, engineer, SPAC sponsor and the founder and CEO of Social Capital..',
+    designation:
+      'Canadian venture capitalist and entrepreneur for 20 yeas in Tech',
+    history:
+      'He is a venture capitalist, engineer, SPAC sponsor and the founder and CEO of Social Capital..',
   },
 ];
 
