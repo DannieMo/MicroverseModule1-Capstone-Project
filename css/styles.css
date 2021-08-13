@@ -15,14 +15,13 @@ body {
 }
 
 header {
-  background-color: #fff;
-  height: 6rem;
-}
+    background-color: #fff;
+  }
 
 .menu-content,
 .first-bar-section,
 .close-menu,
-.desktop-logo a {
+.desktop-logo img {
   display: none;
 }
 
@@ -76,14 +75,6 @@ p {
   color: black;
   z-index: 100;
 }
-
-/* .desktop-logo a {
-  position: absolute;
-  top: 1.3rem;
-  right: 1.5rem;
-  text-decoration: none;
-  color: black;
-} */
 
 .webpages-menu {
   width: 100vw;
@@ -504,11 +495,6 @@ footer {
     cursor: pointer;
   }
 
-  header {
-    background-color: #fff;
-    /* height: 6rem; */
-  }
-
   .nav-container {
     display: flex;
     flex-direction: row;
@@ -519,30 +505,14 @@ footer {
     position: unset;
   }
 
-  .desktop-logo a {
-    position: unset;
-    display: block;
-    font-size: 2rem;
-    text-decoration: none;
-    color: #ec5242;
-  }
-
   .desktop-logo img {
-    width: 45%;
+    display: block;
+    width: 35%;
+    transition: 400ms;
   }
 
-  .desktop-logo {
-    cursor: pointer;
-    width: 40%;
-  }
-
-  .desktop-logo a:hover {
-    color: #ec5242;
-    font-size: 2.2rem;
-  }
-
-  .home-page a {
-    display: none;
+  .desktop-logo img:hover {
+    transform: scale(1.09);
   }
 
   .webpages a {
