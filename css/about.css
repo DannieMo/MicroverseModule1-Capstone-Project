@@ -300,7 +300,7 @@ footer {
 
 @media only screen and (min-width: 768px) {
   .hamburger {
-    display: block;
+    display: none;
   }
 
   hr {
