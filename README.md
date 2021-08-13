@@ -8,7 +8,7 @@
 
 ** CEOs International Community Global Summit is an annual conference event that is held internationally for individuals from all walks of life to participate in real life and join us live on YouTube. The focus of this annual event is to address individuals, who wants to start their own business or have already started, create networking opportunity, share knowledge and possible begin relationships that could lead to funding for their business. ** 
 
-![screenshot]!(Web capture_13-8-2021_23915_127.0.0.1)
+[image]!![image](https://user-images.githubusercontent.com/53879944/128533302-56ccc449-f78d-4be7-b7cf-889fc90570e6.png)
 
 
 ## Live Demo:  
