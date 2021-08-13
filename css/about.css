@@ -115,7 +115,7 @@ p {
 }
 
 .footer-logo img {
-  width: 25%;
+  width: 69%;
   color: #fff;
   font-size: 2rem;
   font-weight: 800;
@@ -196,7 +196,7 @@ p {
   text-align: center;
   border: 3px solid white;
   margin-top: 5%;
-  width: 80%;
+  width: 100%;
   font-size: 1rem;
   /* font-weight: bolder; */
   /* color: black; */
@@ -205,8 +205,10 @@ p {
 
 .event-details {
   text-align: center;
-  width: 75%;
-  font-size: 0.93rem;
+  font-size: 1.19rem;
+  color: black;
+  font-weight: bold;
+  margin-top: 5%;
 }
 
 .flex-content {
@@ -286,18 +288,19 @@ footer {
 }
 
 .footer-flex {
-  height: 150px;
+  height: 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 70%;
+  width: 55%;
   margin: auto;
 }
 
 .copyright {
   font-size: 1rem;
   margin: 0;
-  color: #fff;
+  color: white;
+  width: 148%;
 }
 
 .desktop-para {
@@ -446,16 +449,20 @@ footer {
   }
 
   .open-heading {
-    width: 40%;
+    width: 50%;
     font-size: 3.1rem;
     line-height: 3rem;
 }
 
   .first-section-para {
-    width: 50%;
+    width: 55%;
     margin-top: 2%;
     padding: 1.8%;
     margin-bottom: 2%;
+  }
+
+  .event-details {
+    margin-top: 0;
   }
 
   .email-address {
@@ -539,14 +546,19 @@ footer {
   }
 
   footer {
-    background-color: rgb(0, 0, 0, 0.8);
+    background-color: black
   }
 
   .footer-flex {
     justify-content: space-evenly;
   }
 
+  .footer-logo img {
+    width: 25%;
+  }
+
   .copyright {
     color: white;
+    width: 84%;
   }
 }
