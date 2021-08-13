@@ -17,7 +17,7 @@
 
 ## Live Demo:  
 [live demo link](https://danniemo.github.io/MicroverseModule1-Capstone-Project/)
-
+https://danniemo.github.io/MicroverseModule1-Capstone-Project/
 ## To get a local copy up and runnig follow the following steps:
 
 1. Set up:
