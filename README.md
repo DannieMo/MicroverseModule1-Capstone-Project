@@ -21,7 +21,7 @@
 ## To get a local copy up and runnig follow the following steps:
 
 1. Set up:
-   Download this Github Repository and go to the index.html file
+   Download this Github Repository https://github.com/DannieMo/MicroverseModule1-Capstone-Project.git and go to the index.html file
 
 2. Install:
    Set up liveserver as an extention in your VS Code
@@ -43,11 +43,6 @@
 - Visual Studio Code
 - Photoshop
 - Corel draw
-
-## Getting Started
-To get a local copy up and running follow these simple example steps.
-git clone https://github.com/faizi2500/Module1-Capstone-Project.git
-
 
 ## Author
 👤 Daniel Majesty Owiri
