@@ -267,6 +267,15 @@ hr {
   margin-inline: auto;
   margin-block: 10%;
   cursor: pointer;
+  transition: 300ms ease-in;
+}
+
+.footer-logo img {
+  width: 52%;
+}
+
+.flex-past img:hover {
+  transform: scale(1.09);
 }
 
 footer {
@@ -283,15 +292,13 @@ footer {
   margin: auto;
 }
 
-.footer-logo img {
-  width: 52%;
-}
-
 .copyright {
   font-size: 1rem;
-  margin: 0;
-  color: white;
+  color: #fff;
   width: 148%;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
 }
 
 .desktop-para {
@@ -362,13 +369,13 @@ footer {
 
   .flex-past img {
     display: inline;
-    width: 45%;
+    width: 44%;
     margin-inline: 2.4%;
     margin-block: 5%;
   }
 
   .footer-logo img {
-    width: 25%;
+    width: 45%;
   }
 
   .web-image img {
@@ -397,14 +404,15 @@ footer {
 
   .company-name a {
     text-decoration: none;
-    border: 2px solid #ec5242;
+    border: 1px solid #ec5242;
     border-radius: 4px;
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 700;
     color: #ec5242;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     padding-inline: 0.2rem;
     padding-block: 0.2rem;
+    display: flex;
   }
 
   .webpages-menu {
@@ -418,6 +426,7 @@ footer {
   }
 
   .menu-controls {
+    display: flex;
     margin-block: 0;
     margin-right: 4rem;
   }
@@ -434,7 +443,6 @@ footer {
 
   .webpages a:hover {
     color: #ec5242;
-    border: 1px solid #ec5242;
     background-color: #f7f7f8;
     font-size: 1.15rem;
     padding-inline: 15%;
@@ -495,7 +503,7 @@ footer {
   }
 
   .logo-container {
-    width: 30%;
+    width: 60%;
     background-color: rgb(211, 211, 211, 0.1);
   }
 
@@ -550,5 +558,11 @@ footer {
   .copyright {
     color: white;
     width: 84%;
+  }
+}
+
+@media (min-width: 500px) {
+  .copyright {
+    width: 154%;
   }
 }

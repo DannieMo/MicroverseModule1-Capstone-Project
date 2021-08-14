@@ -127,7 +127,7 @@ p {
 }
 
 .footer-logo img {
-  width: 45%;
+  width: 65%;
 }
 
 .button-container a {
@@ -257,30 +257,32 @@ hr {
 
 .flex-box img {
   transform: scale(0.7);
-  width: 10%;
+  width: 13%;
+  height: 1%;
 }
 
 .flex-box h2 {
-  font-size: 1rem;
-  margin-left: 3%;
+  font-size: 0.99rem;
+  margin-left: 2%;
   align-items: center;
-  width: 40%;
+  width: 50%;
   color: #ec5242;
   text-align: left;
   align-self: center;
 }
 
 .flex-box p {
-  font-size: 1rem;
+  font-size: 0.99rem;
   color: #fff;
   line-height: 1.5rem;
+  margin-left: 3%;
 }
 
 .button-container {
   width: 50%;
   margin-inline: auto;
-  margin-block: 5%;
-  padding-bottom: 8%;
+  margin-block: 2%;
+  padding-bottom: 12%;
   text-align: center;
 }
 
@@ -293,6 +295,7 @@ hr {
   color: #fff;
   font-size: 1rem;
   cursor: pointer;
+  margin-top: 7%;
 }
 
 .program-button:hover {
@@ -316,6 +319,7 @@ hr {
 .featured-speakers {
   width: 92.5%;
   margin: auto;
+  padding-bottom: 4%;
 }
 
 .speaker-section {
@@ -327,8 +331,8 @@ hr {
 }
 
 .speaker-image-section {
-  display: flex;
-  justify-content: center;
+  /* display: flex;
+  justify-content: center; */
 }
 
 .speaker-image {
@@ -364,7 +368,7 @@ hr {
 }
 
 .partners-section {
-  background-color: #3f444f;
+  background-color: #272a31;
 }
 
 .partners-heading {
@@ -374,7 +378,7 @@ hr {
 }
 
 .partners-list img {
-  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(311deg) brightness(102%) contrast(105%);
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(311deg) brightness(168%) contrast(105%);
   margin-block: 10%;
 }
 
@@ -411,10 +415,11 @@ footer {
 
 .copyright {
   font-size: 1rem;
-  margin: 0;
   color: black;
   width: 148%;
   font-weight: bold;
+  text-align: center;
+  margin: auto;
 }
 
 @media only screen and (min-width: 768px) {
@@ -427,27 +432,28 @@ footer {
     display: block;
     color: #d3d3d3;
     text-transform: uppercase;
+    margin-top: 5%;
     transition: 400ms;
   }
 
   .webpages a {
     text-decoration: none;
     color: black;
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin-right: 1rem;
     margin-left: 1.5rem;
   }
 
   .company-name a {
+    display: flex;
     text-decoration: none;
-    border: 2px solid #ec5242;
+    border: 1px solid #ec5242;
     border-radius: 4px;
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 700;
     color: #ec5242;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     padding-inline: 0.2rem;
-    padding-block: 0.2rem;
   }
 
   .button-container a:hover {
@@ -501,9 +507,9 @@ footer {
   }
 
   .desktop-logo img {
-    display: block;
-    width: 35%;
+    width: 45%;
     transition: 400ms;
+    display: flex;
   }
 
   .web-image img {
@@ -517,7 +523,7 @@ footer {
   }
 
   .footer-logo img {
-    width: 25%;
+    width: 45%;
   }
 
   .desktop-logo img:hover {
@@ -535,6 +541,7 @@ footer {
   }
 
   .menu-controls {
+    display: flex;
     margin-block: 0;
     margin-right: 4rem;
   }
@@ -551,7 +558,6 @@ footer {
 
   .webpages a:hover {
     color: #ec5242;
-    border: 1px solid #ec5242;
     background-color: #f7f7f8;
     font-size: 1.15rem;
     padding-inline: 15%;
@@ -644,8 +650,9 @@ footer {
   }
 
   .speaker-section {
-    margin-inline: 2.5%;
+    margin-bottom: 2%;
     width: 95%;
+    gap: 30px;
   }
 
   .section-speakers-heading {
@@ -664,9 +671,11 @@ footer {
   }
 
   .featured-speakers {
-    width: 85%;
+    width: 80%;
     display: grid;
-    grid-template-columns: 0.5fr 0.5fr;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 0 auto;
+    padding-top: 0;
   }
 
   .partners-heading {
@@ -699,5 +708,11 @@ footer {
   .program-list {
     grid-template-columns: repeat(4, 1fr);
     width: 82%;
+  }
+}
+
+@media (min-width: 500px) {
+  .copyright {
+    width: 154%;
   }
 }

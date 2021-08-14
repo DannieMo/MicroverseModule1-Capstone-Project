@@ -9,7 +9,7 @@
 ** CEOs International Community Global Summit is an annual conference event that is held internationally for individuals from all walks of life to participate in real life and join us live on YouTube. The focus of this annual event is to address individuals, who wants to start their own business or have already started, create networking opportunity, share knowledge and possible begin relationships that could lead to funding for their business. ** 
 
 
-## View Web Images
+## Snapshots
 ![Web capture_13-8-2021_23835_127 0 0 1](https://user-images.githubusercontent.com/53879944/129423433-bd30b9b2-d542-432b-8499-80fb0081e559.jpeg)
 ![Web capture_13-8-2021_231515_127 0 0 1](https://user-images.githubusercontent.com/53879944/129423287-e5eec2e6-7b05-4a96-a655-aafc9a7a550d.jpeg)
 ![Web capture_13-8-2021_23651_127 0 0 1](https://user-images.githubusercontent.com/53879944/129423460-504f6aa4-62fa-4cad-aefd-8b152dafdba0.jpeg)
@@ -59,6 +59,7 @@ Feel free to check the issues page.
 ## Acknowledgments
 
 Credit to [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) whose design template was used for this project.
+My Appreciation also goes to Peris Ndanu [https://github.com/mimipeshy] for taking out time to review my project. Every review gives me an opprtunity to improve. Thank you.
 
 ## Show your support
 Give a ⭐️ if you like this project!
