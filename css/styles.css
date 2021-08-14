@@ -127,7 +127,7 @@ p {
 }
 
 .footer-logo img {
-  width: 65%;
+  width: 50%;
 }
 
 .button-container a {
@@ -416,7 +416,7 @@ footer {
 .copyright {
   font-size: 1rem;
   color: black;
-  width: 148%;
+  width: 100%;
   font-weight: bold;
   text-align: center;
   margin: auto;
@@ -713,6 +713,6 @@ footer {
 
 @media (min-width: 500px) {
   .copyright {
-    width: 154%;
+    width: 100%;
   }
 }

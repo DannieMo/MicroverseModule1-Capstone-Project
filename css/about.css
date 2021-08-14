@@ -271,7 +271,7 @@ hr {
 }
 
 .footer-logo img {
-  width: 52%;
+  width: 50%;
 }
 
 .flex-past img:hover {
@@ -295,7 +295,7 @@ footer {
 .copyright {
   font-size: 1rem;
   color: #fff;
-  width: 148%;
+  width: 100%;
   font-weight: bold;
   text-align: center;
   margin: auto;
@@ -563,6 +563,6 @@ footer {
 
 @media (min-width: 500px) {
   .copyright {
-    width: 154%;
+    width: 100%;
   }
 }
