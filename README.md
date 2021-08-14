@@ -17,8 +17,11 @@
 
 
 
-## Live Demo:  
+## Live Demo: 
+[Click Here to view presentation video](https://www.loom.com/share/c8f04b052613470194cd9bca5050315b)
 [live demo link](https://danniemo.github.io/MicroverseModule1-Capstone-Project/)
+
+
 ## To get a local copy up and runnig follow the following steps:
 
 1. Set up:
