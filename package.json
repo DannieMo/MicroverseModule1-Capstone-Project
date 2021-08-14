@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "heroku": "^7.56.1",
     "hint": "^6.1.4",
-    "stylelint-csstree-validator": "^1.9.0",
     "stylelint": "^13.13.1",
-    "stylelint-scss": "^3.19.0",
-    "stylelint-config-standard": "^21.0.0"
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.19.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
